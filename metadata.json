@@ -1,0 +1,8 @@
+{
+  "name": "HSGEO V1.5",
+  "description": "1. Việt hóa giao diện, bản chuẩn 28/12/2025\n2. Tăng cường kỹ năng vẽ Địa hình: Vờn bóng địa hình kinh điển\n3. Bổ sung nút tính năng vẽ Infographic\n",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
